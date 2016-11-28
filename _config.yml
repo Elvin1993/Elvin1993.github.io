@@ -8,7 +8,7 @@ subtitle: “乜嘢都不想说”
 description: jser
 author: elvin long
 language: zh
-timezone: GTM+8
+timezone:  Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
