@@ -2,6 +2,7 @@
 title: react-router笔记
 date: 2015/10/20 11:54:00
 tags: react-router
+categories: 随笔
 ---
 
 # react-router笔记
